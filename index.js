@@ -1,0 +1,1 @@
+console.log("bok from đavaskriptanje")
